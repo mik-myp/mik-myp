@@ -8,7 +8,6 @@
 <!-- 技术栈与工具 -->
 ## 🛠️ 技术栈与工具
 
-**前端核心：**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -17,28 +16,17 @@
 ![Zustand](https://img.shields.io/badge/-Zustand-000?logo=zustand&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)
 
+
 ---
 
 <!-- 动态 GitHub 统计 -->
 ## 📈 GitHub 统计
 
-| 项目 | 数据 |
-| :--- | :--- |
-| **总体统计** | ![mik-myp's GitHub stats](https://github-readme-stats.vercel.app/api?username=mik-myp&show_icons=true&theme=radical&hide_title=true) |
-| **常用语言** | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mik-myp&layout=compact&theme=radical&hide=html,css) |
-
-*小提示：统计卡片仅显示公开仓库的数据。*
-
+![mik-myp's GitHub stats](https://github-readme-stats.vercel.app/api?username=mik-myp&show_icons=true&theme=radical&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mik-myp&layout=compact&theme=radical&hide=html,css)
 
 ---
 
-<!-- 有趣的贡献图 -->
-## 🎨 贡献图
-![Contribution Snake](https://github.com/mik-myp/mik-myp/blob/output/github-contribution-grid-snake.svg)
-
-*这张贪吃蛇动画是由我的提交记录生成的！*
-
----
 
 <!-- 联系信息 -->
 ## 📫 联系与了解更多
