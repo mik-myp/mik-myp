@@ -25,6 +25,8 @@
 ![mik-myp's GitHub stats](https://github-readme-stats.vercel.app/api?username=mik-myp&show_icons=true&theme=radical&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mik-myp&layout=compact&theme=radical&hide=html,css)
 
+![Snake animation](https://github.com/mik-myp/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
+
 ---
 
 
